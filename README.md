@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- I’m a data scientist and data analytics specialized in Finance topics.
+- I’m a data scientist specialized in Finance who loves creating content.
 
-- I´m currently working on building statistical, machine learning, and deep learning models for time series forecasts.
+- I´m currently working on building statistical, machine learning, and deep learning models for time series forecasting.
 
-- I´m currently learning about how to build models using MS Azure & Google Cloud Plaftorm.
+- I'm also delving into MS Azure, GCP and AWS cloud computing platforms.
 
-- My next step will be dive deep into the novelties of Natural Language Processing.
+- My next step will be to find out what´s new in Natural Language Processing.
