@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m a data scientist specialized in Finance who loves creating content.
+- I’m a data scientist specialized in corporate finance who also loves creating content.
 
 - I´m currently working on building statistical, machine learning, and deep learning models for time series forecasting.
 
