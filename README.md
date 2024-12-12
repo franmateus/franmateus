@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- I’m a data scientist specialized in Time Series Forecasting and Linear Optimization.
+- I’m a credit risk professional and a data scientist consultant specialized in credit scoring, time series forecasting and linear optimization.
 
-- I´m currently working on building deep learning models for time series forecasting with Temporal Fusion Transformers.
-
-- I'm also delving into MS Azure, GCP and AWS cloud computing platforms.
-
-- My next step will be to find out what´s new in Large Language Models.
+- I´m currently working on building deep learning models for time series forecasting with Temporal Fusion Transformers and delving into Large Language Models.
