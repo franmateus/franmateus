@@ -4,4 +4,6 @@
 
 - I´m currently working on building deep learning models for time series forecasting with Temporal Fusion Transformers (using Keras/Tensorflow and PyTorch) and delving into Large Language Models.
 
-- https://www.franmateus.com/
+- My website: https://www.franmateus.com
+
+- My Kaggle: https://www.kaggle.com/franmateus
