@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- I’m a credit risk professional and a data scientist consultant specialized in credit scoring, credit limits, time series forecasting and linear optimization.
+- I’m a data science and advanced analytics consultant specialized in predictive analytics, a/b testing, recommender systems, and optimization.
 
-- I´m currently working on building deep learning models for time series forecasting with Temporal Fusion Transformers (using Keras/Tensorflow and PyTorch) and delving into Large Language Models.
+- I´m currently working on delving into Large Language Models.
 
 - My website: https://www.franmateus.com
 
